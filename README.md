@@ -1,7 +1,7 @@
 # Web-Scraping
 Programming codes that relates to Scraping different web sites are here
 The "Bama_scraping.py" file is used to scrape bama.ir website and extract the Price and Mileage of a given car name. 
-"Final_Project_ihome.py" file is related to sraping ihome.ir and extracting home price, home area, and number of bedrooms of the home for a given zone name in Tehran city.
+"ihome_Scraping_Scripts.py" file is related to sraping ihome.ir and extracting home price, home area, and number of bedrooms of the home for a given zone name in Tehran city.
 "Final_project.py"
 "ML_Functions.py" file is the implementation for expecting the price of a home with giving the Zone name, Home area, and the number of Home bedrooms with Machine Learning algorithm.
 "ihome_FP.py" is the seperated function definition for the purpose of ihome.ir scraping.
